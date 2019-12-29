@@ -1,0 +1,10 @@
+.about-container img {
+    height: 375px;
+    width: 375px;
+    object-fit: cover;
+    border-radius: 51%;
+}
+
+.about-container div  {
+    padding: 70px;
+}
