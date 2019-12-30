@@ -1126,8 +1126,8 @@ a {
         margin-right: 84px;
     }
     .preview-date {
-        display: none;
         margin: 0;
+        display: block;
         padding-top: 40px;
     }
     .dropdown-content {
@@ -1147,21 +1147,21 @@ a {
     }
     .open-button-preview {
         margin-left: 0;
-        margin-right: 56px;
+        margin-right: 68px;
         display: block;
     }
     .delete-button-preview {
-        margin-right: 28px;
+        margin-right: 42px;
         margin-left: 0;
         display: block;
     }
     .mark-read-button {
         margin-right: 0;
-        margin-left: 30px;
+        margin-right: 14px;
         display: block;
     }
     .back-inbox-btn {
         display: block;
-        margin-right: 84px;
+        margin-right: 91px;
     }
 }
